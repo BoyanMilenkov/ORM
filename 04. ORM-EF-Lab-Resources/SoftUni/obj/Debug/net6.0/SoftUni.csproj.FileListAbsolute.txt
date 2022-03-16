@@ -1,0 +1,5 @@
+E:\BOBO\04. ORM-EF-Lab-Resources\SoftUni\obj\Debug\net6.0\SoftUni.csproj.AssemblyReference.cache
+E:\BOBO\04. ORM-EF-Lab-Resources\SoftUni\obj\Debug\net6.0\SoftUni.GeneratedMSBuildEditorConfig.editorconfig
+E:\BOBO\04. ORM-EF-Lab-Resources\SoftUni\obj\Debug\net6.0\SoftUni.AssemblyInfoInputs.cache
+E:\BOBO\04. ORM-EF-Lab-Resources\SoftUni\obj\Debug\net6.0\SoftUni.AssemblyInfo.cs
+E:\BOBO\04. ORM-EF-Lab-Resources\SoftUni\obj\Debug\net6.0\SoftUni.csproj.CoreCompileInputs.cache
